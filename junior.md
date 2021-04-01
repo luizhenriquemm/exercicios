@@ -46,9 +46,7 @@ Caso tenha dúvidas, pode entrar em contato pelo email **data.engineering@picpay
 
  O teste deverá ser entregue em até 7 dias a partir da data de recebimento. Tudo deve estar contido em um único notebook, que deverá ser exportado do Databricks (File > Export > Source File) e enviado para o email **data.engineering@picpay.com**, utilizando o título **[TESTE] Nome do Candidato - Data Pipelines Junior**.
 
-
-
-
+&nbsp;
 
 ### Minha solução
 
